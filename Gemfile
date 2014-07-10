@@ -33,9 +33,7 @@ gem 'ember-rails'
 gem 'ember-source'
 gem 'emblem-rails'
 
-group :development, :test do
-  gem 'ffaker'
-end
+gem 'ffaker'
 
 gem 'puma'
 
